@@ -1,9 +1,13 @@
 # Olá, meu nome é Kaique Cadimiel 👋
 
 ## Sobre mim
-Desenvolvedor web Jr com foco em React e Node.js. O que me motiva todos os dias é criar algo novo, dar contexto a novas experiências e contruir colaboração. A programação abre portas para minha criatividade, ao entar na Trybe aprendi a aprender, aprender com os outros e a ensinar também. 
+Sou um desenvolvedor web Jr, recém-formado pela Trybe, com experiência prática em tecnologias como HTML, CSS, JavaScript, React e Node.js. Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos e continuar aprendendo no ambiente profissional.
 
-Sou músico, amo tocar teclado e outros instrumentos. Faço parte de um grupo de louvor e isso sempre me conecta com a criatividade e lidar com pessoas.
+Estou motivado por desafios e pela possibilidade de criar soluções inovadoras que melhorem a experiência do usuário e a eficiência dos processos. Através da minha formação, aprendi a importância de aprender continuamente, colaborar com colegas e comunicar ideias de forma clara e eficaz.
+
+Além de tecnologia, sou músico e toco teclado em um grupo de louvor. Essa experiência me ensinou a trabalhar em equipe e a ser criativo, habilidades que considero valiosas no desenvolvimento de software.
+
+Estou pronto para contribuir com minha energia e vontade de aprender. Se você está buscando um estagiário dedicado e comprometido, ficarei feliz em discutir como posso agregar valor à sua equipe!
 
 ## Linguagens
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' /> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' /> <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/> <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/> <img src='https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white'/>
