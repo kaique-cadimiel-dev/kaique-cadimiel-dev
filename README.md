@@ -1,13 +1,13 @@
 # Olá, meu nome é Kaique Cadimiel 👋
 
 ## Sobre mim
-Desenvolvedor Front-End Júnior no Grupo Sada, com forte atuação em Adobe Experience Manager (AEM) no time de Produtos Digitais, atendendo os produtos Jornal O Tempo (Sempre Editora) e PDI Sada.
+Desenvolvedor Full Stack formado em Desenvolvimento Web pela Trybe e atualmente cursando Tecnólogo em Inteligência Artificial na FIAP.
 
-Atuo no desenvolvimento e manutenção de componentes em HTL (Sightly), criação de dialogs (Granite UI), organização de clientlibs e estruturação no JCR, garantindo padronização, reutilização e escalabilidade. Trabalho com HTML, Sass, JavaScript, jQuery, TypeScript e integração com Java. No Jornal O Tempo, atuo também na camada de monetização (Ads), colaborando com configurações e regras no Google Ad Manager (GAM), além de otimizações de SEO técnico e performance.
+Atuo no time de Produtos Digitais do Grupo SADA, sendo responsável pela manutenção e desenvolvimento de novos recursos do PDI — portal de gerenciamento do processo de preparação e transporte de veículos Stellantis. Trabalho diariamente com tecnologias como React, TypeScript e banco de dados PostgreSQL, contribuindo para a evolução de soluções voltadas ao setor de logística e transporte.
 
-No PDI Sada, participei da evolução do sistema para permitir solicitação e gestão do processo de preparação de veículos do grupo Stellantis, contribuindo na implementação da camada de interação e fluxo operacional.
+Também possuo experiência no Jornal O TEMPO, onde atuo oferecendo suporte à redação e desenvolvendo habilidades com CMS AEM, metodologias ágeis, Java e outras tecnologias importantes para ambientes digitais de alta demanda.
 
-Sou formado em Desenvolvimento Full Stack pela Trybe e atualmente curso Tecnólogo em Inteligência Artificial na FIAP, ampliando minha base em arquitetura de software, algoritmos e desenvolvimento de soluções orientadas a dados.
+Busco uma nova oportunidade que possibilite atuação híbrida, favorecendo meu desenvolvimento acadêmico e profissional, além da oportunidade de expandir minha experiência para novos segmentos além de transporte, logística e veículos de informação.
 
 ## 💻 Linguagens & Marcação
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' /> 
@@ -25,10 +25,8 @@ Sou formado em Desenvolvimento Full Stack pela Trybe e atualmente curso Tecnólo
 
 ## 🗄 Banco de Dados
 <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
+<img src='https://img.shields.io/badge/PostgreSQL-326791?style=for-the-badge&logo=postgresql&logoColor=white' />
 
-## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaique-cadimiel-dev&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaique-cadimiel-dev&layout=compact)
 
 ## 📫 Contato
 <a href="mailto:kaiqueamasio@gmail.com">
